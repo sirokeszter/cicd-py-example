@@ -1,0 +1,82 @@
+{
+  "cb4e58acdeea1cfb42b89a42126fbcc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3ef096a9a52d647",
+      "reportUrl" : "https://sirokeszter.github.io/cicd-py-example/3//#testresult/f3ef096a9a52d647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623269671902,
+        "stop" : 1623269671902,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b2d597cfd6127f8",
+      "reportUrl" : "https://sirokeszter.github.io/cicd-py-example/3//#testresult/6b2d597cfd6127f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623269671900,
+        "stop" : 1623269671900,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f9596f2de49549c",
+      "reportUrl" : "https://sirokeszter.github.io/cicd-py-example/3//#testresult/4f9596f2de49549c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623269671901,
+        "stop" : 1623269671901,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dce78d7dd5962c01ca0a9a6e9bc9920e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40a25e68ac067786",
+      "reportUrl" : "https://sirokeszter.github.io/cicd-py-example/3//#testresult/40a25e68ac067786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623269671891,
+        "stop" : 1623269671891,
+        "duration" : 0
+      }
+    } ]
+  }
+}
